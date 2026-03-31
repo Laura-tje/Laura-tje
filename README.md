@@ -9,6 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/laura-delissen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura-delissen" height="30" width="40" /></a>
 <a href="https://instagram.com/laura_tje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="laura_tje" height="30" width="40" /></a>
+<a href="https://www.lauradelissen.com/" target="blank"><img align="center" src="https://staging.svgrepo.com/show/278330/internet.svg" alt="lauradelissen.com" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
