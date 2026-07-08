@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Laura</h1>
 <h3 align="center">An XR developer from the Netherlands</h3>
 
-- 🔭 I’m currently working on [an anti distraction tracker](https://github.com/Laura-tje/Anti-Distraction-Tracker)
+- I’m currently working on [my portfolio](http://www.lauradelissen.com)
 
-- 🌱 I’m currently learning **OpenCV**
+- I’m currently learning **Unreal Engine**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
